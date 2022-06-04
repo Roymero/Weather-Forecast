@@ -7,10 +7,11 @@
 
 body{
     font-family: 'Gill Sans', sans-serif ;
-    
+    background-color: #cf66ca;
     background-image: url('./images/background.jpg');
-    background-size: cover;
+    background-size: 140vh 100vh;
     background-position: top center;
+    background-repeat: no-repeat;
 }
 
 .app-wrap{
@@ -27,13 +28,18 @@ header{
     padding: 50px 15px 15px;
 }
 
+::placeholder{
+   color: aliceblue;
+}
+
+
 header input{
     width: 100%;
     max-width: 250px;
     padding: 10px 15px;
     border: none;
     outline: none;
-    background-color: rgba(7, 6, 6, 0.3);
+    background-color: rgba(229, 221, 221, 0.4);
     border-radius: 16px 0px 16px 0px;
     border-bottom: 3px solid #7e397a;
 
