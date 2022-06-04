@@ -1,9 +1,9 @@
 # WeatherApp
-- Weather application using the OpenWeather API that tells you the current weather in user's city.
+- Weather application using OpenWeather API that tells you the current weather in any city.
 
-- Type city in the search bar and press "enter"
+- Type the city name you want to search for in the search bar and press "enter"
 
-- Live demo here <-
+- Live demo [here](https://roymero.github.io/Weather-Forecast/) <-
 
 
 
