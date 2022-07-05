@@ -3,7 +3,7 @@
 
 - Type the city name you want to search for in the search bar and press "enter".
 
-- Live demo [here](https://roymero.github.io/Weather-Forecast/) <-
+- Live demo -> [here](https://roymero.github.io/Weather-Forecast/) 
 
 
 
